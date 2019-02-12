@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> JavaScript QUESTION 3 </title>
+    
+    <script>     
+    function area()
+    {
+        var radius=prompt('Enter Radius');
+        var result=3.14*radius*radius;
+        document.getElementById("q1").innerHTML='Area of circle with radius= '+radius+' is '+result;
+    }
+    </script>
+</head>
+<body style="width:1000px; margin: 0 auto;background-color: rgb(143, 143, 214);">
+<div>
+    <button onclick="area()">Enter radius</button>
+    <p id="q1"></p>
+</div>		
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> QUESTION 1 </title>
+    
+    <script>
+        function interest(){
+        var amount = prompt('Please enter amount.');
+        if(amount!=null){
+        var interest_rate = prompt('Please enter interest rate.');
+        if(interest_rate!=null){
+        var no_of_years = prompt('Please enter no. of years.');
+        if(no_of_years!=null){
+        var result=amount*interest_rate*no_of_years/100;
+        var output='Amount:'+amount+' '+'rate of interest:'+interest_rate+' '+'Duration:'+no_of_years;
+        document.getElementById("q1").innerHTML='Simple interest of the following will be:';
+        document.getElementById("q2").innerHTML=output;
+        document.getElementById("q3").innerHTML='SI:'+' '+result;
+        
+        }
+        }
+        }
+        }
+    </script>
+</head>
+<body style="width:1000px; margin: 0 auto;background-color: rgb(143, 143, 214);">
+<div style=" text-align: center;height:100px;padding-top: 50px ;padding-bottom: 0px ;background-color: rgb(204, 204, 233);color:darkblue">
+    Introduction_to_javaScript	
+</div>
+<div style="margin: 0 auto;padding-top:20px;text-align: center; color: crimson ;">
+    <input type="button" value="calculate interest" onclick="interest()">
+</div>
+<div style="margin: 0 auto;text-align: center;background-color:cadetblue; color: crimson ;">
+    <p id="q1"></p>
+    <p id="q2"></p>
+    <p id="q3"></p>
+</div>		
+</body>
+</html>

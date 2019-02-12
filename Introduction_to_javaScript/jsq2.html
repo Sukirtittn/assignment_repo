@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> QUESTION 1 </title>
+    
+    <script>
+     function is_palandrome()
+     {   var st=[];
+        var x=prompt('Enter your string:');
+        for(i=0;i<x.length;i++)
+        {
+            st[i]=x[i];
+        }
+        var z=st.reverse();
+        var y=z.join('');
+       
+        if(x==y){
+        document.getElementById("q1").innerHTML= x + ' is  palandrome';
+        }
+        else{
+        document.getElementById("q1").innerHTML= x + ' is not a palandrome';
+        }
+         
+     }  
+    </script>
+</head>
+<body style="width:1000px; margin: 0 auto;background-color: rgb(143, 143, 214);">
+<div>
+    <button onclick="is_palandrome()" value="Enter your String">Enter your String</button>
+    <p id="q1"></p>
+</div>		
+</body>
+</html>
