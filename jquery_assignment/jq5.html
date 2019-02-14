@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JQUERY ASSIGNMENT Q5</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+    $("#b1").click(function(){
+    $("#main > .target").css("font-size", "50px") ;
+     } );
+    });
+</script>
+</head>
+<body 
+style="background-color: rgb(180, 180, 228);
+color: rgb(245, 244, 241) ;">
+<div id="main">
+    <p class="target">element with
+         class target and parent id main</p>
+    <p class="new">Assignment of Jquery q-5</p>
+</div>
+<div>
+    <h3 class="target" style=" color: brown;">
+element with class target but parent id is not main</h3>
+</div>
+<div>
+        <button id="b1">change font</button>
+</div>
+</body>
+</html>

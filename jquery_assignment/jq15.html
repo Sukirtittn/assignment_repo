@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sukirti q-14
+</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        
+        $.get("https://jsonplaceholder.typicode.com/users",function(data){
+
+            
+            var datav="";
+            data.forEach(function(element) {
+                
+                datav = "<tr>";
+                datav+="<td>"+element.id+"</td>";
+                datav+="<td>"+element.name+"</td>";
+                datav+="<td>"+element.username+"</td>";
+                datav+="<td>"+element.email+"</td>";
+                datav+="<td>"+element.phone+"</td>";
+                datav+="<td>"+element.website+"</td>";
+                datav+="</td>";
+            $("#tdata").append(datav);
+            });
+        })
+    });
+    </script>
+</head>
+<body> 
+
+    <table>
+        <thead>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Website</th>
+        </thead>
+        <tbody id="tdata">
+
+        </tbody>
+
+    </table>
+</body>
+</html>

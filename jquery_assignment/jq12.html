@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JQUERY ASSIGNMENT Q7</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+    $("#d1").click(function(e){
+        if(e.target.id != this.id) return;
+        $("#d1").append("<p>click event fired</p>");
+    })
+    });
+</script>
+</head>
+<body 
+style="background-color: rgb(180, 180, 228);
+color: rgb(245, 244, 241) ;">
+<div id="d1">text written inside parent div tag
+<p>paragraph child of d1.</p>
+<div>
+<ul>
+    <li>this is a li tag its parent is p tag whose parent is d1</li>
+    <li>we have bind d1 with a click event</li> 
+    <li>lets stop that event to be applied on its child elements</li>
+</ul>
+</div>
+</div>
+</body>
+</html>

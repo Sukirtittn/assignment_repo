@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JQUERY ASSIGNMENT Q9</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+    $("#dropdown").on("change",function()
+    {
+    var selected_value=$("#dropdown").val();
+    $("div").append("<p>Value selected by you is </p>"+selected_value);
+    }
+    );
+    });
+</script>
+</head>
+<body 
+style="background-color: rgb(180, 180, 228);
+color: rgb(245, 244, 241) ;">
+<div>  
+    <p>Select from dropdown</p> 
+    <select id="dropdown">
+        <option>one</option>
+        <option>two</option>
+        <option>three</option>
+        <option>four</option>
+        <option>fifth</option>
+    </select>
+</div>
+</body>
+</html>

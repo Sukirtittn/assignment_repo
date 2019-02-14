@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JQUERY ASSIGNMENT Q7</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+
+var highest = null;
+var hi = 0;
+$('*').each(function(){
+ var h = $(this).height();
+   if(h > hi){
+      hi = h;
+      highest = $(this).height();  
+   }    
+});
+console.log(highest);
+    });
+</script>
+</head>
+<body 
+style="background-color: rgb(180, 180, 228);
+color: rgb(245, 244, 241) ;">
+<div id="d1">
+<p>paragraph child of d1.</p></div>
+<div>
+<ul>
+    <li>this is a li tag its parent is p tag whose parent is d1</li>
+    <li>we have bind d1 with a click event</li> 
+    <li>lets stop that event to be applied on its child elements</li>
+</ul>
+</div>
+<div>
+        <ul>
+                <li>this is a li tag its parent is p tag whose parent is d1</li>
+                <li>we have bind d1 with a click event</li> 
+                <li>lets stop that event to be applied on its child elements</li>
+                <li>this is a li tag its parent is p tag whose parent is d1</li>
+                <li>we have bind d1 with a click event</li> 
+                <li>lets stop that event to be applied on its child elements</li>
+                <li>this is a li tag its parent is p tag whose parent is d1</li>
+                <li>we have bind d1 with a click event</li> 
+                <li>lets stop that event to be applied on its child elements</li>
+            </ul>   '
+</div>
+</body>
+</html>
+
+
+

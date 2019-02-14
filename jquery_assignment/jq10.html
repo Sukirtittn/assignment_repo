@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JQUERY ASSIGNMENT Q9</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+    $("#dropdown").hover(function()
+    {
+        $(this).children("ul").slideDown('medium');
+    },
+    function(){
+            $(this).children("ul").slideUp('medium');
+    }
+    );
+    });
+</script>
+</head>
+<body 
+style="background-color: rgb(180, 180, 228);
+color: rgb(245, 244, 241) ;">
+<div id="dropdown">  
+    <p id="dd">on hovering this: a dropdown list get appeared </p>
+    <ul style=" background-color:palegoldenrod ; color:black;display: none; list-style-type: none;border: outset;">
+        <li>dropdownitem1</li>
+        <li>dropdownitem2</li>
+        <li>dropdownitem3</li>
+    </ul>
+</div>
+</body>
+</html>

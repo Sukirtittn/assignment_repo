@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JQUERY ASSIGNMENT Q7</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+    $("#b1").click(function(){
+    $("div").append("<p>apended text on click") ;
+     } );
+    // $("p").click(function(){
+    //$("p").append("<span> new text dynamuically added</span>") ;
+    // } );
+$("div").on("click","p",function(){
+$("p").append("<p> new text dynamuically added using on click</p>") ;
+    });
+    });
+</script>
+</head>
+<body 
+style="background-color: rgb(180, 180, 228);
+color: rgb(245, 244, 241) ;">
+<div>   
+    <button id="b1">click</button>
+</div>
+</body>
+</html>
