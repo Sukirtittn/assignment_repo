@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88fc902d-94bc-4777-8f5f-9a429605216a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Intro_to_java2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_to_java2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Multthreading_assignment/multithreading_assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multthreading_assignment/multithreading_assignment/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/EmpQ4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/EmpQ4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/EmpQ4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/Q6$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/Q6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/Q9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/Q9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/SpecialStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/SpecialStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/StudentQ5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/StudentQ5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/out/production/Intro_to_Collections/StudentQ5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/EmpQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/EmpQ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/Q9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/SpecialStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/SpecialStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/StudentQ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/src/StudentQ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../design_pattern/design_pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../design_pattern/design_pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/Q11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/Q11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/Q5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q5.java" afterDir="false" />
-    </list>
+    <list default="true" id="88fc902d-94bc-4777-8f5f-9a429605216a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -128,7 +83,7 @@
     <session id="-733140704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -512,7 +467,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="643" />
     <option name="y" value="351" />
     <option name="width" value="679" />
@@ -580,8 +535,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551899762424" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551902191562" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../testing/spock-demo/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -677,16 +632,15 @@
       <updated>1551896467026</updated>
       <workItem from="1551896470333" duration="915000" />
       <workItem from="1551897533702" duration="425000" />
-      <workItem from="1551898016646" duration="717000" />
+      <workItem from="1551898016646" duration="1341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2057000" />
+    <option name="totallyTimeSpent" value="2681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
