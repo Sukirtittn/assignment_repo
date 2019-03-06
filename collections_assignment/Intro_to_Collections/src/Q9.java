@@ -4,7 +4,7 @@ import java.util.Locale;
 public class Q9 {
     public static void main(String[] args) {
         System.out.println("France Date and Time Format : ");
-        Locale locale = new Locale("fr", "FR");
+        Locale locale = new Locale("abc", "abcggghv");
         DateFormat dateFormat = DateFormat.getDateInstance(DateFormat.DEFAULT, locale);
         String date = dateFormat.format(new Date());
         System.out.println(date);

@@ -1,0 +1,59 @@
+apply plugin: 'java'
+version="1.0"
+jar {
+    manifest {
+        attributes 'Implementation-Title': 'Gradle Tutorial',
+                'Implementation-Version': version,
+                'Main-Class': 'Application'
+    }
+}
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java']
+        }
+        resources {
+//            srcDirs = ['src/main/resources']
+//            exclude 'file2.xml'
+        }
+    }
+}
+//task runMe(type: JavaExec, dependsOn: 'classes') {
+//    main = "com.TTN.gradle.Application"
+//    classpath = sourceSets.main.runtimeClasspath
+//}
+//task fetchFromRepo{
+//    doFirst {println "dofirst"}
+//    println "fetched!"
+//    doLast {println "last me execute hona chaiye!"}
+//}
+//task compile(dependsOn : fetchFromRepo){
+//    println "gradle compile"
+//    doLast {println "last me execute hona chaiye!"}
+//}
+//task greet {
+//    println "greet depends on fetch from repo"
+//    doLast {println "last me execute hona chaiye!"}
+//}
+//apply from:'/home/ttn/Desktop/gradleDemo/gradle/wrapper/mytasks.gradle'
+//
+//greet.dependsOn compile,fetchFromRepo,abc
+
+//task taskX << {
+//    println 'taskX'
+//}
+//taskX.dependsOn {
+//    tasks.findAll {
+//        task -> task.name.endsWith('1')
+//    }
+//}
+//task lib1 << {
+//    println 'lib1'
+//}
+//task lib2 << {
+//    println 'lib2'
+//}
+//task notALib << {
+//    println 'notALib'
+//}
+

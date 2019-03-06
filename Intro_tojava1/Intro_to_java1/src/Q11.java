@@ -25,6 +25,9 @@ class BOI extends Q11 {
         rate_of_interest = 8.6;
         IFSC_code="BOI8884345";
     }
+    public void print(){
+        System.out.println("abc");
+    }
     @Override
     void getDetails() {
         System.out.println("No of branches of BOI are: "+total_branches);

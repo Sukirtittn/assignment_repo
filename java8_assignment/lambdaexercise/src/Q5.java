@@ -10,9 +10,7 @@ public class Q5 {
         System.out.println( predicate.test(7));
         Supplier<Integer> supplier=()->24;
         System.out.println(supplier.get());
-        Function<Integer,Integer> function=(a)-> {
-          return (supplier.get())+a;
-        };
+        Function<Integer,Integer> function=(a)-> (supplier.get())+a;
         System.out.println(function.apply(9));
     }
 }

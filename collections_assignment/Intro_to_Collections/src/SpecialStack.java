@@ -1,10 +1,10 @@
 import java.util.Stack;
 
 public class SpecialStack extends Stack<Integer> {
-    Stack<Integer> minstack = new Stack<>();
+    private Stack<Integer> minstack = new Stack<>();
 
-    public void push(int element) {
-        if (isEmpty() == true) {
+    private void push(int element) {
+        if (isEmpty()) {
             super.push(element);
             minstack.push(element);
         } else {
@@ -24,7 +24,7 @@ public class SpecialStack extends Stack<Integer> {
         return x;
     }
 
-    int getMin() {
+    private int getMin() {
         int min = minstack.pop();
         minstack.push(min);
         return min;

@@ -3,7 +3,7 @@ import java.util.Iterator;
 public class Q1 {
     public static void main(String[] args) {
         Float sum=0.0f;
-        ArrayList<Float> list=new ArrayList();
+        ArrayList<Float> list=new ArrayList<>();
         list.add(2.34f);
         list.add(3.44f);
         list.add(4.54f);

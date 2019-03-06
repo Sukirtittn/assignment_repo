@@ -6,7 +6,7 @@ public class Q10 {
 
     public void add(double a, double b) {
         double add_result = a + b;
-        System.out.println("Sum of two interger a: " + a + " b: " + b + " is: " + add_result);
+        System.out.println("Sum of two double a: " + a + " b: " + b + " is: " + add_result);
     }
 
     public void multiply(int a, int b) {
@@ -16,7 +16,7 @@ public class Q10 {
 
     public void multiply(float a, float b) {
         float mul_result = a * b;
-        System.out.println("Multiplication of two interger a: " + a + " b: " + b + " is: " + mul_result);
+        System.out.println("Multiplication of two float a: " + a + " b: " + b + " is: " + mul_result);
 
     }
 
@@ -40,3 +40,4 @@ public class Q10 {
         concat("sukirti", "kaushik", "sharma");
     }
 }
+

@@ -2,12 +2,11 @@ public class Main {
     public static void main(String[] args) {
 //        Q1 q=new Q1();
 //        q.replace_string();
-//        Q2 q2=new Q2();
-//        q2.duplicate_words_count_and_list();
+//         q2.duplicate_words_count_and_list();
 //        Q3 q3=new Q3();
 //        q3.count_Character();
 //        Q4 q4 =new Q4();
-////        q4.calcu_no_and_percentage();
+//        q4.calcu_no_and_percentage();
 //        int[] arr1 = { 1, 5, 3, 2, 4, 4};
 //        int[] arr2 = { 3, 9, 7, 4};
 //        Q5 q5 = new Q5();
@@ -27,12 +26,12 @@ public class Main {
 //        q9.dis();
 //        Q10 q10=new Q10();
 //        q10.call_Q10();
-        SBI s=new SBI();
+        Q11 s=new SBI();
         s.getDetails();
-        BOI b=new BOI();
-        b.getDetails();
-        ICICI i=new ICICI();
-        i.getDetails();
+//        BOI b=new BOI();
+//        b.getDetails();
+//        ICICI i=new ICICI();
+//        i.getDetails();
 
     }
 }

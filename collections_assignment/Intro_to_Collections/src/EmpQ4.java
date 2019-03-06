@@ -31,12 +31,8 @@ public class EmpQ4{
         ar.add(e4);
         ar.add(e3);
         ar.add(e5);
-        Collections.sort(ar, new Comparator<EmpQ4>() {
-            @Override
-            public int compare(EmpQ4 o1, EmpQ4 o2) {
-                return (int) (o2.salary - o1.salary);
-            }
-        });
+
+        Collections.sort(ar, (EmpQ4 o1, EmpQ4 o2)->(int) (o2.salary - o1.salary));
         Iterator<EmpQ4> iterator = ar.iterator();
         while (iterator.hasNext()) {
             System.out.println(iterator.next());

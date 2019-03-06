@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f724b216-58c1-43d9-abdf-6c63c513944a" name="Default Changelist" comment="" />
+    <list default="true" id="f724b216-58c1-43d9-abdf-6c63c513944a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Intro_to_java2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_to_java2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../collections_assignment/Intro_to_Collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_pattern/design_pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../design_pattern/design_pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q5.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +51,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="382625235">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="198">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#394#395#0" expanded="true" />
@@ -51,14 +80,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q16.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            <state relative-caret-position="144">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1197#1198#0" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
-                <element signature="e#1360#1361#0" expanded="true" />
-                <element signature="e#1405#1406#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,16 +92,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="108">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1325#1326#0" expanded="true" />
-                <element signature="e#1371#1372#0" expanded="true" />
-                <element signature="e#1490#1491#0" expanded="true" />
-                <element signature="e#1536#1537#0" expanded="true" />
-                <element signature="e#1655#1656#0" expanded="true" />
-                <element signature="e#1701#1702#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,8 +117,6 @@
               <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,14 +125,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Deadlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-142">
+            <state relative-caret-position="234">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,6 +142,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -163,40 +179,23 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="108" />
-    <option name="y" value="27" />
-    <option name="width" value="1151" />
+    <option name="x" value="149" />
+    <option name="y" value="440" />
+    <option name="width" value="1161" />
     <option name="height" value="357" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="multithreading_assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multithreading_assignment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multithreading_assignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multithreading_assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551201779518" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java8_assignment/lambdaexercise" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -281,14 +280,16 @@
       <workItem from="1551162526066" duration="9271000" />
       <workItem from="1551180369399" duration="2842000" />
       <workItem from="1551199239310" duration="2687000" />
+      <workItem from="1551781391603" duration="757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14800000" />
+    <option name="totallyTimeSpent" value="15557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.12689546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -338,13 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -352,10 +346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -370,11 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-213">
           <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,9 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -424,10 +406,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/Q8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="198">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#394#395#0" expanded="true" />
@@ -436,53 +419,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Deadlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-142">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        <state relative-caret-position="144">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1197#1198#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-            <element signature="e#1360#1361#0" expanded="true" />
-            <element signature="e#1405#1406#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="108">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#1490#1491#0" expanded="true" />
-            <element signature="e#1536#1537#0" expanded="true" />
-            <element signature="e#1655#1656#0" expanded="true" />
-            <element signature="e#1701#1702#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -494,14 +446,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Deadlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
           </folding>
         </state>
       </provider>

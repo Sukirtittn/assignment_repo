@@ -20,6 +20,7 @@ public class Q7 {
 
 
     static void display() {
+        age=25;
         System.out.println();
         System.out.println("Static function  Display Values");
         System.out.println("FirstName :" + firstName);

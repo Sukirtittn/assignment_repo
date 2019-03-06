@@ -5,11 +5,11 @@ public class Q6 {
         for (int i = 0; i < arry.length; i++) {
             for (int j = i + 1; j < arry.length; j++) {
                 if (arry[i]==(arry[j])) {
-                    arry[j] = 0;
-                    arry[i] = 0;
+                    arry[j] = -1;
+                    arry[i] = -1;
                 }
             }
-            if (arry[i] != 0)
+            if (arry[i] != -1)
                 System.out.println("the element which is not in pair is: "+arry[i]);
         }
     }

@@ -1,7 +1,11 @@
 import java.text.DecimalFormat;
+import java.util.Scanner;
+
 public class Q4 {
     public void calcu_no_and_percentage() {
-        String str = "T#1& Is @ Sp3c!@l $TR1nG";
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your string:");
+        String str = sc.nextLine();
         System.out.println("String to be parsed  : " + str);
         int lowerCount, upperCount, digitCount, specialCount, spaceCount;
         lowerCount = upperCount = digitCount = specialCount = spaceCount = 0;

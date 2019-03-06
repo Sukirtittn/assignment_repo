@@ -26,21 +26,19 @@ public class StudentQ5 {
         studentList.add(student3);
         studentList.add(student4);
         studentList.add(student5);
-        Collections.sort(studentList, new Comparator<StudentQ5>() {
-            @Override
-            public int compare(StudentQ5 student1, StudentQ5 student2) {
-                if(student2.score==student1.score){
-                   int result= student2.name.compareTo(student1.name);
+        Collections.sort(studentList,(StudentQ5 s1, StudentQ5 s2)-> {
+                if(s2.score==s1.score){
+                   int result= s2.name.compareTo(s1.name);
                     if(result<0)
                     {
-                        return (int) student2.score;
+                        return (int) s2.score;
                     }
                     else
-                        return (int) student1.score;
+                        return (int) s1.score;
                 }
                 else
-                return (int) (student2.score - student1.score);
-            }
+                return (int) (s2.score - s1.score);
+
         });
 //        Collections.sort(studentList);
         Iterator<StudentQ5> iterator = studentList.iterator();

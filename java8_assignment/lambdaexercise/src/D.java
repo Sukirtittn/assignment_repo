@@ -4,9 +4,7 @@ interface lambda3{
 }
 public class D {
     public static void main(String[] args) {
-        lambda3 lam3 = a -> {
-            return (a.toUpperCase());
-        };
+        lambda3 lam3 = String::toUpperCase;
         System.out.println(lam3.upperCase("sukirti"));
     }
 }

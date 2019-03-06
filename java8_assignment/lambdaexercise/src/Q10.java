@@ -7,6 +7,6 @@ public class Q10 {
 
 
         List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
-        System.out.println( list.stream().filter(e -> e > 5).collect(Collectors.summingInt(Integer::intValue)));
+        System.out.println((Integer) list.stream().filter(e -> e > 5).mapToInt(Integer::intValue).sum());
     }
 }

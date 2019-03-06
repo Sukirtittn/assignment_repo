@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.*;
 public class Q6 {
-    public HashMap<Integer,Integer> Characters_and_their_count(int arry[]) {
+    private HashMap<Integer,Integer> Characters_and_their_count(int arry[]) {
         HashMap<Integer, Integer> elements_frequency = new HashMap<>();
         for (int i : arry) {
             if (elements_frequency.containsKey(i)) {
@@ -12,13 +12,9 @@ public class Q6 {
 
         }
         List<Map.Entry<Integer, Integer> > list = new LinkedList<Map.Entry<Integer, Integer> >(elements_frequency.entrySet());
-        Collections.sort(list, new Comparator<Map.Entry<Integer, Integer> >() {
-            public int compare(Map.Entry<Integer, Integer> o1,
-                               Map.Entry<Integer, Integer> o2)
-            {
-                return (o2.getValue()).compareTo(o1.getValue());
-            }
-        });
+        list.sort((Map.Entry<Integer, Integer> o1,
+                   Map.Entry<Integer, Integer> o2) ->
+                (o2.getValue()).compareTo(o1.getValue()));
         HashMap<Integer, Integer> temp = new LinkedHashMap<Integer, Integer>();
         for (Map.Entry<Integer, Integer> aa : list) {
             temp.put(aa.getKey(), aa.getValue());

@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04ac03d1-f11f-400b-8e3b-3927409442f4" name="Default Changelist" comment="" />
+    <list default="true" id="04ac03d1-f11f-400b-8e3b-3927409442f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Intro_to_java2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_to_java2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/out/production/Intro_to_java1/Q7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Intro_tojava1/Intro_to_java1/src/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multthreading_assignment/multithreading_assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multthreading_assignment/multithreading_assignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro_to_Collections/EmpQ4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro_to_Collections/EmpQ4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro_to_Collections/EmpQ4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro_to_Collections/Q6$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro_to_Collections/Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro_to_Collections/Q6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro_to_Collections/Q9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro_to_Collections/Q9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro_to_Collections/SpecialStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro_to_Collections/SpecialStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro_to_Collections/StudentQ5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro_to_Collections/StudentQ5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro_to_Collections/StudentQ5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmpQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmpQ4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpecialStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpecialStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentQ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentQ5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design_pattern/design_pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../design_pattern/design_pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/Q11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/Q11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/Q5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/out/production/lambdaexercise/Q5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java8_assignment/lambdaexercise/src/Q5.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,14 +75,34 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="458441847">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="35" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+            <state relative-caret-position="144">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,36 +113,68 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpecialStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="576">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding>
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#831#832#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/EmpQ4.java">
+        <entry file="file://$PROJECT_DIR$/src/Q9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+            <state relative-caret-position="162">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EmpQ4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -85,20 +182,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentQ5.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+              <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,20 +200,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Q1.java" />
-        <option value="$PROJECT_DIR$/src/Q2.java" />
         <option value="$PROJECT_DIR$/src/Q3.java" />
         <option value="$PROJECT_DIR$/src/StuentQ5.java" />
-        <option value="$PROJECT_DIR$/src/StudentQ5.java" />
         <option value="$PROJECT_DIR$/src/Question9.java" />
-        <option value="$PROJECT_DIR$/src/Q9.java" />
         <option value="$PROJECT_DIR$/src/Q8.java" />
-        <option value="$PROJECT_DIR$/src/Q6.java" />
-        <option value="$PROJECT_DIR$/src/SpecialStack.java" />
+        <option value="$PROJECT_DIR$/src/Q1.java" />
+        <option value="$PROJECT_DIR$/src/Q2.java" />
         <option value="$PROJECT_DIR$/src/EmpQ4.java" />
+        <option value="$PROJECT_DIR$/src/StudentQ5.java" />
+        <option value="$PROJECT_DIR$/src/SpecialStack.java" />
+        <option value="$PROJECT_DIR$/src/Q6.java" />
+        <option value="$PROJECT_DIR$/src/Q9.java" />
       </list>
     </option>
   </component>
@@ -139,41 +227,23 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="149" />
-    <option name="y" value="440" />
-    <option name="width" value="1161" />
-    <option name="height" value="357" />
+    <option name="x" value="67" />
+    <option name="y" value="33" />
+    <option name="width" value="689" />
+    <option name="height" value="629" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Intro_to_Collections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro_to_Collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro_to_Collections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro_to_Collections" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551162354568" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../collectionsInterface" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551787638058" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/collectionsInterface" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -192,9 +262,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpecialStack">
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2" />
+  <component name="RunManager" selected="Application.Q9">
+    <configuration name="EmpQ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpQ4" />
+      <module name="Intro_to_Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3" />
       <module name="Intro_to_Collections" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -207,13 +284,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q8" />
-      <module name="Intro_to_Collections" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q9" />
       <module name="Intro_to_Collections" />
@@ -221,27 +291,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpecialStack" />
+    <configuration name="StudentQ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentQ5" />
       <module name="Intro_to_Collections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q2" />
+      <item itemvalue="Application.Q3" />
+      <item itemvalue="Application.EmpQ4" />
+      <item itemvalue="Application.StudentQ5" />
       <item itemvalue="Application.Q6" />
       <item itemvalue="Application.Q9" />
-      <item itemvalue="Application.Q8" />
-      <item itemvalue="Application.SpecialStack" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpecialStack" />
-        <item itemvalue="Application.Q6" />
-        <item itemvalue="Application.Q8" />
         <item itemvalue="Application.Q9" />
-        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.Q6" />
+        <item itemvalue="Application.StudentQ5" />
+        <item itemvalue="Application.EmpQ4" />
+        <item itemvalue="Application.Q3" />
       </list>
     </recent_temporary>
   </component>
@@ -257,17 +327,19 @@
       <updated>1550829325584</updated>
       <workItem from="1550829329921" duration="6828000" />
       <workItem from="1551079697634" duration="10976000" />
+      <workItem from="1551781365352" duration="2750000" />
+      <workItem from="1551856421692" duration="693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17804000" />
+    <option name="totallyTimeSpent" value="21247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12609737" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12769353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -276,7 +348,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31707317" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31647635" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -297,7 +369,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12609737" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12769353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -306,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2796748" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31647635" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,24 +416,70 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q6.java</url>
+          <line>23</line>
+          <properties class="Q6" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Question9.java" />
     <entry file="file://$PROJECT_DIR$/src/StudentQ5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        <state relative-caret-position="324">
+          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question9.java">
+    <entry file="file://$PROJECT_DIR$/src/SpecialStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="6" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="576">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="e#840#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmpQ4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -371,24 +489,14 @@
     <entry file="file://$PROJECT_DIR$/src/Q3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q2.java">
+    <entry file="file://$PROJECT_DIR$/src/Q6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="288">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -397,49 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpecialStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmpQ4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        <state relative-caret-position="162">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
